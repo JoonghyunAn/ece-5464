@@ -1,4 +1,9 @@
-
+*.pdf
+*.xslx
+*.csv
+Book1.twb
+data
+/data
 .ipynb_checkpoints
 # Byte-compiled / optimized / DLL files
 __pycache__/
