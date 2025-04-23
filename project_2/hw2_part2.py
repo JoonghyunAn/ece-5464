@@ -21,7 +21,7 @@ import pydotplus
 # In[31]:
 
 
-file_path = "/home/coldnoodle/dev/ece-5464/project_2/AlienMushrooms.xlsx"
+file_path = "/home/kobugi/papaya/ece-5464/project_2/AlienMushrooms.xlsx"
 
 
 # In[32]:
